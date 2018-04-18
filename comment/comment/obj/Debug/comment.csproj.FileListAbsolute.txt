@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\3-comment\comment\comment\bin\Debug\comment.exe.config
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\3-comment\comment\comment\bin\Debug\comment.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\3-comment\comment\comment\bin\Debug\comment.pdb
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\3-comment\comment\comment\obj\Debug\comment.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\3-comment\comment\comment\obj\Debug\comment.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\3-comment\comment\comment\obj\Debug\comment.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\3-comment\comment\comment\obj\Debug\comment.pdb
